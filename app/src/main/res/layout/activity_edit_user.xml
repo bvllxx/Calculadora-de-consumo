@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#092635"
+    tools:context=".EditUserActivity">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#262F34"
+        app:title="@string/toolbar_title"
+        app:titleCentered="true"
+        app:titleTextColor="?attr/colorSurface" />
+
+    <LinearLayout
+        android:id="@+id/nameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar"
+        android:layout_marginStart="20sp"
+        android:layout_marginTop="20sp"
+        android:layout_marginEnd="20sp"
+        android:layout_marginBottom="20sp"
+        android:orientation="horizontal"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/phoneLayout"
+        style="@style/Widget.Material3.TextInputLayout.FilledBox.Dense"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nameLayout"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="20sp"
+        android:hint="@string/elect_name">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/phoneET"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/montserrat_medium"
+            android:inputType="text"
+            tools:visibility="invisible" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/bioLayout"
+        style="@style/Widget.Material3.TextInputLayout.FilledBox.Dense"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/phoneLayout"
+        android:layout_marginStart="20sp"
+        android:layout_marginTop="40sp"
+        android:layout_marginEnd="20sp"
+        android:layout_marginBottom="20sp"
+        android:hint="@string/consumption">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/bioET"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/montserrat_medium"
+            android:inputType="textCapSentences|textMultiLine"
+            tools:visibility="invisible" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/delete"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bioLayout"
+        android:layout_alignStart="@id/bioLayout"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="190dp"
+        android:layout_marginTop="20dp"
+        android:background="#D80B0B"
+        android:fontFamily="@font/montserrat_regular"
+        android:text="Borrar Alumno"
+        app:backgroundTint="#952323" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/save"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bioLayout"
+        android:layout_alignEnd="@id/bioLayout"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="196dp"
+        android:background="#388E3C"
+        android:fontFamily="@font/montserrat_regular"
+        android:text="Guardar"
+        android:textColor="#FFFFFF"
+        app:backgroundTint="#34572A" />
+
+</RelativeLayout>

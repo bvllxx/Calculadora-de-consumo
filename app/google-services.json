@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597427833733",
+    "project_id": "cert3-c97b9",
+    "storage_bucket": "cert3-c97b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597427833733:android:adf97fd0ac6f3bbc7e12ec",
+        "android_client_info": {
+          "package_name": "com.example.firestorecrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb_5sDQnfBRDc6iJG3g5nMNqUwTh0CFtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

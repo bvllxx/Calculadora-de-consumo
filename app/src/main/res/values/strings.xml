@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firestore CRUD</string>
+
+    <string name="toolbar_title">Calculadora de consumo</string>
+
+    <string name="elect_name">Nombre del electrodomestico</string>
+    <string name="consumption">Consumo en Kwh</string>
+
+</resources>
