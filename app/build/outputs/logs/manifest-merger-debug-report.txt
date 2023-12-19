@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:2:1-35:12
+ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:2:1-35:12
 MERGED from [com.google.android.material:material:1.5.0] /home/bvllx/.gradle/caches/transforms-3/d6346f821d54c10706354515552000bf/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/bvllx/.gradle/caches/transforms-3/b9fec61b2957d6bfe8adb0d44572ddaf/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/bvllx/.gradle/caches/transforms-3/74e35b4ecfedce372329ca2caff29441/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
@@ -57,35 +57,35 @@ MERGED from [androidx.print:print:1.0.0] /home/bvllx/.gradle/caches/transforms-3
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/bvllx/.gradle/caches/transforms-3/771428b383066a65b02e8a6d3180f849/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
 MERGED from [io.grpc:grpc-android:1.52.1] /home/bvllx/.gradle/caches/transforms-3/cddd998fcbe3b1f5af6c3c3b1acc9a95/transformed/grpc-android-1.52.1/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/bvllx/.gradle/caches/transforms-3/f66ba4782f65f7d2080b527c252313e5/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
-INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:2:1-35:12
 	package
-		INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:2:1-35:12
-		INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:2:1-35:12
-		INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:2:1-35:12
-		INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:5:5-67
 MERGED from [com.google.firebase:firebase-database:20.3.0] /home/bvllx/.gradle/caches/transforms-3/be92ad299bc2ca6ebf8b449c6e5252a6/transformed/firebase-database-20.3.0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-database:20.3.0] /home/bvllx/.gradle/caches/transforms-3/be92ad299bc2ca6ebf8b449c6e5252a6/transformed/firebase-database-20.3.0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-firestore:24.10.0] /home/bvllx/.gradle/caches/transforms-3/44e7cdcc2bc050bee200cfb19f9088a6/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-firestore:24.10.0] /home/bvllx/.gradle/caches/transforms-3/44e7cdcc2bc050bee200cfb19f9088a6/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:7:5-33:19
+ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:7:5-33:19
 MERGED from [com.google.android.material:material:1.5.0] /home/bvllx/.gradle/caches/transforms-3/d6346f821d54c10706354515552000bf/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.5.0] /home/bvllx/.gradle/caches/transforms-3/d6346f821d54c10706354515552000bf/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/bvllx/.gradle/caches/transforms-3/b9fec61b2957d6bfe8adb0d44572ddaf/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -121,57 +121,57 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/bvllx
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] /home/bvllx/.gradle/caches/transforms-3/5343c53896619bdcaa0eb3013a1810d1/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:13:9-41
 	android:fullBackupContent
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:11:9-54
 	android:roundIcon
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:14:9-54
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:14:9-54
 	tools:targetApi
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:17:9-29
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:17:9-29
 	android:icon
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:16:9-51
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:16:9-51
 	android:dataExtractionRules
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:10:9-65
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:10:9-65
 	android:name
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:8:9-28
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:8:9-28
 activity#com.example.firestorecrud.EditUserActivity
-ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:18:9-20:40
+ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:18:9-20:40
 	android:exported
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:20:13-37
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:19:13-45
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:19:13-45
 activity#com.example.firestorecrud.AddUserActivity
-ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:21:9-23:40
+ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:21:9-23:40
 	android:exported
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:23:13-37
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:22:13-44
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:22:13-44
 activity#com.example.firestorecrud.MainActivity
-ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:24:9-32:20
+ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:24:9-32:20
 	android:exported
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:26:13-36
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:26:13-36
 	android:name
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:25:13-41
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:25:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:27:13-31:29
+ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:28:17-69
+ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:30:17-77
+ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:30:27-74
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:30:27-74
 uses-sdk
-INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
-INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
+INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
+INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.5.0] /home/bvllx/.gradle/caches/transforms-3/d6346f821d54c10706354515552000bf/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.5.0] /home/bvllx/.gradle/caches/transforms-3/d6346f821d54c10706354515552000bf/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/bvllx/.gradle/caches/transforms-3/b9fec61b2957d6bfe8adb0d44572ddaf/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
@@ -278,16 +278,16 @@ MERGED from [io.grpc:grpc-android:1.52.1] /home/bvllx/.gradle/caches/transforms-
 MERGED from [io.grpc:grpc-android:1.52.1] /home/bvllx/.gradle/caches/transforms-3/cddd998fcbe3b1f5af6c3c3b1acc9a95/transformed/grpc-android-1.52.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/bvllx/.gradle/caches/transforms-3/f66ba4782f65f7d2080b527c252313e5/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/bvllx/.gradle/caches/transforms-3/f66ba4782f65f7d2080b527c252313e5/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
-INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
-INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
+INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
+INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
-		INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
-		ADDED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
-		INJECTED from /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
+		ADDED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-database:20.3.0] /home/bvllx/.gradle/caches/transforms-3/be92ad299bc2ca6ebf8b449c6e5252a6/transformed/firebase-database-20.3.0/AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-firestore:24.10.0] /home/bvllx/.gradle/caches/transforms-3/44e7cdcc2bc050bee200cfb19f9088a6/transformed/firebase-firestore-24.10.0/AndroidManifest.xml:10:5-79

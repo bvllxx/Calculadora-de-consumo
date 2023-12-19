@@ -25,11 +25,11 @@ com.example.firestorecrud.app-material-1.5.0-23 /home/bvllx/.gradle/caches/trans
 com.example.firestorecrud.app-startup-runtime-1.1.1-24 /home/bvllx/.gradle/caches/transforms-3/e2134f0cdb2974fc108a739d8c509b79/transformed/startup-runtime-1.1.1/res
 com.example.firestorecrud.app-drawerlayout-1.1.1-25 /home/bvllx/.gradle/caches/transforms-3/ee70800001431b4b9d164ca9ce11ce4d/transformed/drawerlayout-1.1.1/res
 com.example.firestorecrud.app-emoji2-views-helper-1.2.0-26 /home/bvllx/.gradle/caches/transforms-3/f484b0cfd2eac1fcf334082178e4c3ca/transformed/emoji2-views-helper-1.2.0/res
-com.example.firestorecrud.app-google-services-27 /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/build/generated/res/google-services/debug
-com.example.firestorecrud.app-pngs-28 /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/build/generated/res/pngs/debug
-com.example.firestorecrud.app-resValues-29 /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/build/generated/res/resValues/debug
-com.example.firestorecrud.app-packageDebugResources-30 /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.firestorecrud.app-packageDebugResources-31 /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.firestorecrud.app-merged_res-32 /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/build/intermediates/merged_res/debug
-com.example.firestorecrud.app-debug-33 /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/debug/res
-com.example.firestorecrud.app-main-34 /home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/res
+com.example.firestorecrud.app-google-services-27 /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/build/generated/res/google-services/debug
+com.example.firestorecrud.app-pngs-28 /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/build/generated/res/pngs/debug
+com.example.firestorecrud.app-resValues-29 /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/build/generated/res/resValues/debug
+com.example.firestorecrud.app-packageDebugResources-30 /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.firestorecrud.app-packageDebugResources-31 /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.firestorecrud.app-merged_res-32 /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/build/intermediates/merged_res/debug
+com.example.firestorecrud.app-debug-33 /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/debug/res
+com.example.firestorecrud.app-main-34 /home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/res

@@ -81,6 +81,9 @@
         android:background="#D80B0B"
         android:fontFamily="@font/montserrat_regular"
         android:text="Borrar Alumno"
+        android:textColor="@color/white"
+        android:textColorHighlight="#1976D2"
+        android:textColorLink="#1976D2"
         app:backgroundTint="#952323" />
 
     <com.google.android.material.button.MaterialButton
@@ -95,7 +98,9 @@
         android:background="#388E3C"
         android:fontFamily="@font/montserrat_regular"
         android:text="Guardar"
-        android:textColor="#FFFFFF"
+        android:textColor="@color/white"
+        android:textColorHighlight="#1976D2"
+        android:textColorLink="#1976D2"
         app:backgroundTint="#34572A" />
 
 </RelativeLayout>

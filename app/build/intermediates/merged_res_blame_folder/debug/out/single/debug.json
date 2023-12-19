@@ -1,90 +1,142 @@
 [
     {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.firestorecrud.app-main-34:/drawable/ic_launcher_background.xml"
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/font_montserrat_light.ttf.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/font/montserrat_light.ttf"
     },
     {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.firestorecrud.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/drawable_round_add_24.xml.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/drawable/round_add_24.xml"
     },
     {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.firestorecrud.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/drawable_round_refresh_24.xml.flat",
-        "source": "com.example.firestorecrud.app-main-34:/drawable/round_refresh_24.xml"
-    },
-    {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.firestorecrud.app-main-34:/xml/data_extraction_rules.xml"
-    },
-    {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.firestorecrud.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/layout_activity_add_user.xml.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/layout/activity_add_user.xml"
     },
     {
         "merged": "com.example.firestorecrud.app-merged_res-32:/layout_activity_main.xml.flat",
         "source": "com.example.firestorecrud.app-main-34:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.firestorecrud.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.firestorecrud.app-main-34:/drawable-v24/ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.firestorecrud.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/font_montserrat_medium.ttf.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/font/montserrat_medium.ttf"
     },
     {
         "merged": "com.example.firestorecrud.app-merged_res-32:/layout_activity_edit_user.xml.flat",
         "source": "com.example.firestorecrud.app-main-34:/layout/activity_edit_user.xml"
     },
     {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.firestorecrud.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.firestorecrud.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/font_montserrat_bold.ttf.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/font/montserrat_bold.ttf"
     },
     {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.firestorecrud.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/font_montserrat_extrabold.ttf.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/font/montserrat_extrabold.ttf"
     },
     {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.firestorecrud.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/layout_user_list_item.xml.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/layout/user_list_item.xml"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/layout_activity_edit_user.xml.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/layout/activity_edit_user.xml"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/font_montserrat_extralight.ttf.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/font/montserrat_extralight.ttf"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/font_montserrat_thin.ttf.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/font/montserrat_thin.ttf"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/font_montserrat_regular.ttf.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/font/montserrat_regular.ttf"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/font_montserrat_semibold.ttf.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/font/montserrat_semibold.ttf"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/drawable_round_refresh_24.xml.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/drawable/round_refresh_24.xml"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/font_montserrat_black.ttf.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/font/montserrat_black.ttf"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
         "merged": "com.example.firestorecrud.app-merged_res-32:/layout_user_list_item.xml.flat",
         "source": "com.example.firestorecrud.app-main-34:/layout/user_list_item.xml"
     },
     {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.firestorecrud.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
-    },
-    {
         "merged": "com.example.firestorecrud.app-merged_res-32:/layout_activity_add_user.xml.flat",
         "source": "com.example.firestorecrud.app-main-34:/layout/activity_add_user.xml"
     },
     {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/xml_backup_rules.xml.flat",
-        "source": "com.example.firestorecrud.app-main-34:/xml/backup_rules.xml"
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/drawable_round_add_24.xml.flat",
-        "source": "com.example.firestorecrud.app-main-34:/drawable/round_add_24.xml"
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.firestorecrud.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.firestorecrud.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.firestorecrud.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/bvllx/.gradle/daemon/8.0/com.example.firestorecrud.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
     }
 ]

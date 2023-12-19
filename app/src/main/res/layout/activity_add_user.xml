@@ -76,6 +76,9 @@
         android:layout_marginTop="20dp"
         android:background="#689F38"
         android:text="Agregar"
+        android:textColor="@color/white"
+        android:textColorHighlight="#1976D2"
+        android:textColorLink="#1976D2"
         app:backgroundTint="#34572A" />
 
 </RelativeLayout>

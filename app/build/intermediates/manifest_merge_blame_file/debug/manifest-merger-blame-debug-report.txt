@@ -6,13 +6,13 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
+8-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml
+9-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:5:5-67
-11-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:5:22-64
+11-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:5:22-64
 12
 13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 14    <!-- <uses-sdk android:minSdkVersion="14"/> -->
@@ -32,57 +32,57 @@
 21-->[androidx.core:core:1.9.0] /home/bvllx/.gradle/caches/transforms-3/5343c53896619bdcaa0eb3013a1810d1/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
 22
 23    <application
-23-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:7:5-33:19
+23-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:7:5-33:19
 24        android:name="com.example.firestorecrud.App"
-24-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:8:9-28
+24-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:8:9-28
 25        android:allowBackup="true"
-25-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:9:9-35
+25-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:9:9-35
 26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 26-->[androidx.core:core:1.9.0] /home/bvllx/.gradle/caches/transforms-3/5343c53896619bdcaa0eb3013a1810d1/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 27        android:dataExtractionRules="@xml/data_extraction_rules"
-27-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:10:9-65
+27-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:10:9-65
 28        android:debuggable="true"
 29        android:extractNativeLibs="false"
 30        android:fullBackupContent="@xml/backup_rules"
-30-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:11:9-54
+30-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:11:9-54
 31        android:icon="@mipmap/ic_launcher"
-31-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:12:9-43
+31-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:12:9-43
 32        android:label="@string/app_name"
-32-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:13:9-41
+32-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:13:9-41
 33        android:roundIcon="@mipmap/ic_launcher_round"
-33-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:14:9-54
+33-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:14:9-54
 34        android:supportsRtl="true"
-34-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:15:9-35
+34-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:15:9-35
 35        android:testOnly="true"
 36        android:theme="@style/Theme.FirestoreCRUD" >
-36-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:16:9-51
+36-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:16:9-51
 37        <activity
-37-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:18:9-20:40
+37-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:18:9-20:40
 38            android:name="com.example.firestorecrud.EditUserActivity"
-38-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:19:13-45
+38-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:19:13-45
 39            android:exported="false" />
-39-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:20:13-37
+39-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:20:13-37
 40        <activity
-40-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:21:9-23:40
+40-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:21:9-23:40
 41            android:name="com.example.firestorecrud.AddUserActivity"
-41-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:22:13-44
+41-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:22:13-44
 42            android:exported="false" />
-42-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:23:13-37
+42-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:23:13-37
 43        <activity
-43-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:24:9-32:20
+43-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:24:9-32:20
 44            android:name="com.example.firestorecrud.MainActivity"
-44-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:25:13-41
+44-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:25:13-41
 45            android:exported="true" >
-45-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:26:13-36
+45-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:26:13-36
 46            <intent-filter>
-46-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:27:13-31:29
+46-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:27:13-31:29
 47                <action android:name="android.intent.action.MAIN" />
-47-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:28:17-69
-47-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:28:25-66
+47-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:28:17-69
+47-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:28:25-66
 48
 49                <category android:name="android.intent.category.LAUNCHER" />
-49-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:30:17-77
-49-->/home/bvllx/Documentos/Apps moviles/Firebase-Firestore-CRUD-main/app/src/main/AndroidManifest.xml:30:27-74
+49-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:30:17-77
+49-->/home/bvllx/Documentos/Apps moviles/calculadora_consumo_electrico/app/src/main/AndroidManifest.xml:30:27-74
 50            </intent-filter>
 51        </activity>
 52

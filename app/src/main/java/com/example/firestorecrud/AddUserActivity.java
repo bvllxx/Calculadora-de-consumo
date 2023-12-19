@@ -28,8 +28,6 @@ public class AddUserActivity extends AppCompatActivity {
 
         FirebaseFirestore db = FirebaseFirestore.getInstance();
 
-        TextInputEditText firstNameET = findViewById(R.id.firstNameET);
-        TextInputEditText lastNameET = findViewById(R.id.lastNameET);
         TextInputEditText phoneET = findViewById(R.id.phoneET);
         TextInputEditText bioET = findViewById(R.id.bioET);
         MaterialButton addUser = findViewById(R.id.addUser);
@@ -38,8 +36,6 @@ public class AddUserActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Map<String, Object> user = new HashMap<>();
-                user.put("firstName", Objects.requireNonNull(firstNameET.getText()).toString());
-                user.put("lastName", Objects.requireNonNull(lastNameET.getText()).toString());
                 user.put("phone", Objects.requireNonNull(phoneET.getText()).toString());
                 user.put("bio", Objects.requireNonNull(bioET.getText()).toString());
 

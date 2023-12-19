@@ -2541,6 +2541,15 @@ drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+font montserrat_black
+font montserrat_bold
+font montserrat_extrabold
+font montserrat_extralight
+font montserrat_light
+font montserrat_medium
+font montserrat_regular
+font montserrat_semibold
+font montserrat_thin
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2734,8 +2743,6 @@ id fill
 id fill_horizontal
 id fill_vertical
 id filled
-id firstNameET
-id firstNameLayout
 id fitToContents
 id fixed
 id flip
@@ -2775,8 +2782,6 @@ id item_touch_helper_previous_elevation
 id jumpToEnd
 id jumpToStart
 id labeled
-id lastNameET
-id lastNameLayout
 id layout
 id left
 id leftToRight
@@ -3274,6 +3279,8 @@ string common_google_play_services_wear_update_text
 string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
+string consumption
+string elect_name
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
@@ -3375,6 +3382,7 @@ string path_password_strike_through
 string project_id
 string search_menu_title
 string status_bar_notification_info_overflow
+string toolbar_title
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow
